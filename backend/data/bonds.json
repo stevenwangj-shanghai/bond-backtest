@@ -1,0 +1,122 @@
+[
+  {
+    "bond_code": "110052",
+    "bond_name": "兴业转债",
+    "stock_code": "601166",
+    "stock_name": "兴业银行",
+    "price": 105.23,
+    "convert_value": 102.5,
+    "premium_rate": 2.66,
+    "yield_to_maturity": -0.85,
+    "remaining_years": 4.2,
+    "rating": "AAA"
+  },
+  {
+    "bond_code": "113052",
+    "bond_name": "兴业转债2",
+    "stock_code": "601166",
+    "stock_name": "兴业银行",
+    "price": 108.45,
+    "convert_value": 105.2,
+    "premium_rate": 3.09,
+    "yield_to_maturity": -0.92,
+    "remaining_years": 5.1,
+    "rating": "AAA"
+  },
+  {
+    "bond_code": "128129",
+    "bond_name": "青农转债",
+    "stock_code": "002958",
+    "stock_name": "青农商行",
+    "price": 98.56,
+    "convert_value": 95.8,
+    "premium_rate": 2.88,
+    "yield_to_maturity": 1.25,
+    "remaining_years": 3.8,
+    "rating": "AA+"
+  },
+  {
+    "bond_code": "127045",
+    "bond_name": "牧原转债",
+    "stock_code": "002714",
+    "stock_name": "牧原股份",
+    "price": 112.34,
+    "convert_value": 108.9,
+    "premium_rate": 3.16,
+    "yield_to_maturity": -1.85,
+    "remaining_years": 4.5,
+    "rating": "AA+"
+  },
+  {
+    "bond_code": "113055",
+    "bond_name": "中银转债",
+    "stock_code": "601988",
+    "stock_name": "中国银行",
+    "price": 103.78,
+    "convert_value": 101.2,
+    "premium_rate": 2.55,
+    "yield_to_maturity": -0.45,
+    "remaining_years": 5.3,
+    "rating": "AAA"
+  },
+  {
+    "bond_code": "110073",
+    "bond_name": "国投转债",
+    "stock_code": "600061",
+    "stock_name": "国投资本",
+    "price": 115.67,
+    "convert_value": 112.3,
+    "premium_rate": 3.00,
+    "yield_to_maturity": -2.15,
+    "remaining_years": 3.5,
+    "rating": "AAA"
+  },
+  {
+    "bond_code": "128134",
+    "bond_name": "鸿路转债",
+    "stock_code": "002541",
+    "stock_name": "鸿路钢构",
+    "price": 125.89,
+    "convert_value": 122.5,
+    "premium_rate": 2.77,
+    "yield_to_maturity": -3.25,
+    "remaining_years": 4.8,
+    "rating": "AA"
+  },
+  {
+    "bond_code": "123117",
+    "bond_name": "健帆转债",
+    "stock_code": "300529",
+    "stock_name": "健帆生物",
+    "price": 95.34,
+    "convert_value": 92.1,
+    "premium_rate": 3.52,
+    "yield_to_maturity": 2.15,
+    "remaining_years": 3.2,
+    "rating": "AA"
+  },
+  {
+    "bond_code": "113046",
+    "bond_name": "金田转债",
+    "stock_code": "601609",
+    "stock_name": "金田股份",
+    "price": 102.45,
+    "convert_value": 99.8,
+    "premium_rate": 2.66,
+    "yield_to_maturity": -0.25,
+    "remaining_years": 4.1,
+    "rating": "AA+"
+  },
+  {
+    "bond_code": "127030",
+    "bond_name": "盛虹转债",
+    "stock_code": "000301",
+    "stock_name": "东方盛虹",
+    "price": 108.92,
+    "convert_value": 105.6,
+    "premium_rate": 3.14,
+    "yield_to_maturity": -1.05,
+    "remaining_years": 4.6,
+    "rating": "AAA"
+  }
+]

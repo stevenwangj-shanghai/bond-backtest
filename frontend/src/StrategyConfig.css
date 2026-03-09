@@ -1,0 +1,173 @@
+/* 策略配置页面样式 - 禄得网风格 */
+
+.strategy-config-container {
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+}
+
+/* 页面标题 */
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 0 4px;
+}
+
+.page-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #1f1f1f;
+  margin: 0;
+}
+
+/* 卡片样式 - 禄得网风格 */
+.ant-card {
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
+  border: 1px solid #e8e8e8;
+}
+
+.ant-card-head {
+  background-color: #fafafa;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 12px 16px;
+  min-height: 44px;
+}
+
+.ant-card-head-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1f1f1f;
+}
+
+.ant-card-body {
+  padding: 16px;
+}
+
+/* 表格样式 */
+.ant-table-small {
+  font-size: 13px;
+}
+
+.ant-table-small .ant-table-cell {
+  padding: 8px 12px;
+}
+
+.ant-table-thead > tr > th {
+  background-color: #fafafa;
+  font-weight: 600;
+  color: #1f1f1f;
+}
+
+/* 复选框样式 */
+.ant-checkbox-wrapper {
+  font-size: 13px;
+  color: #333;
+}
+
+/* 按钮样式 */
+.ant-btn-link {
+  font-size: 13px;
+  padding: 0 4px;
+}
+
+/* 空状态样式 */
+.empty-state {
+  text-align: center;
+  padding: 40px 20px;
+  color: #999;
+  font-size: 13px;
+}
+
+/* 两栏布局间距 */
+.strategy-content {
+  display: flex;
+  gap: 16px;
+}
+
+.strategy-left,
+.strategy-right {
+  flex: 1;
+}
+
+/* 卡片间距 */
+.strategy-left .ant-card,
+.strategy-right .ant-card {
+  margin-bottom: 16px;
+}
+
+.strategy-left .ant-card:last-child,
+.strategy-right .ant-card:last-child {
+  margin-bottom: 0;
+}
+
+/* 回测时间卡片 */
+.backtest-time-card {
+  margin-top: 16px;
+}
+
+/* 开始回测按钮 */
+.start-backtest-btn {
+  text-align: center;
+  margin-top: 24px;
+}
+
+.start-backtest-btn .ant-btn {
+  width: 200px;
+  height: 44px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 4px;
+}
+
+/* 弹窗样式 */
+.factor-category {
+  margin-bottom: 16px;
+}
+
+.factor-category-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.factor-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.factor-buttons .ant-btn {
+  font-size: 12px;
+  height: 28px;
+  padding: 0 12px;
+}
+
+/* 已选因子标签 */
+.selected-factors {
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px dashed #e8e8e8;
+}
+
+.selected-factors .ant-tag {
+  margin-bottom: 8px;
+}
+
+/* 条件添加弹窗 */
+.condition-form-item {
+  margin-bottom: 16px;
+}
+
+.condition-form-item label {
+  display: block;
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 6px;
+}
